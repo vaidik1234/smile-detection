@@ -1,3 +1,4 @@
+import numpy as np
 import cv2
 
 path='smile/i3.jpg'
